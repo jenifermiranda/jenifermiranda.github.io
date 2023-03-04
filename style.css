@@ -1,0 +1,43 @@
+body {
+    font-family: 'Golos Text', sans-serif;
+    background-color: #FFF7E8;
+}
+
+#titulo {
+    font-family: 'Tilt Warp', cursive;
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+aside {
+    text-align: center;
+}
+
+aside li {
+    display: inline;
+}
+
+img {
+    display: inline;
+}
+
+
+.box {
+    background-color: #EBDFC5;
+    width: 800px;
+    border: 15px solid #E8AA8C;
+    padding: 50px;
+    margin: 20px;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.box img,
+.box div {
+    padding: 10px
+}
+
